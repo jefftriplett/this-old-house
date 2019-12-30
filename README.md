@@ -1,10 +1,12 @@
 # :house: This Old House
 
-- [How to Sand a Fence](https://www.hunker.com/12002478/how-to-sand-a-fence)
-- [Tips for Sanding a Wood Deck Before Refinishing](https://www.thespruce.com/how-to-sand-a-wood-deck-1825148)
-- [How to Pressure-Wash a Wood Deck](https://www.thespruce.com/power-wash-a-wood-deck-1825149)
+- :tv: [How to Sand a Fence](https://www.hunker.com/12002478/how-to-sand-a-fence)
+- :tv: [Tips for Sanding a Wood Deck Before Refinishing](https://www.thespruce.com/how-to-sand-a-wood-deck-1825148)
+- :tv: [How to Pressure-Wash a Wood Deck](https://www.thespruce.com/power-wash-a-wood-deck-1825149)
 
-## EGO Lines
+## Reviews 
+
+### EGO Lines
 
 The EGO line has treated me well. From a lawn mower, blower, and a weed eater, I have not been disappointed with the line nor their power and battery time. 
 
