@@ -1,5 +1,7 @@
 # :house: This Old House
 
+## General HowTos
+
 - :tv: [How to Sand a Fence](https://www.hunker.com/12002478/how-to-sand-a-fence)
 - :tv: [Tips for Sanding a Wood Deck Before Refinishing](https://www.thespruce.com/how-to-sand-a-wood-deck-1825148)
 - :tv: [How to Pressure-Wash a Wood Deck](https://www.thespruce.com/power-wash-a-wood-deck-1825149)
